@@ -21,6 +21,8 @@ Third, there is a need for more inclusive and equitable algorithms. Dating apps 
 ## Related Resources
 ![enter image description here][1]
 - [Addressing the Misuses of Technology in Feminist Dating Apps](https://telegra.ph/Addressing-the-Misuses-of-Technology-in-Feminist-Dating-Apps-03-02)
+![enter image description here][2]
+![enter image description here][3]
 - [Related Reports](https://drive.google.com/drive/folders/1-mFlPTlxo43QX70m3t5P16yvmylmhFI_)
 
 ## Conclusion
@@ -29,3 +31,5 @@ The potential misuses of technology in feminist dating apps underscore the need 
 
 
   [1]: https://i.stack.imgur.com/TB2ws.jpg
+  [2]: https://i.stack.imgur.com/LTO9b.png
+  [3]: https://i.stack.imgur.com/S6Eab.png
