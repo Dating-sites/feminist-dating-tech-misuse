@@ -19,7 +19,7 @@ Second, platforms must address the prevalent issues of harassment and sexual ass
 Third, there is a need for more inclusive and equitable algorithms. Dating apps must strive to create environments that are free from bias, allowing all users to find matches based on genuine interest and compatibility rather than perpetuating harmful stereotypes or biases.
 
 ## Related Resources
-[enter image description here][1]
+![enter image description here][1]
 - [Addressing the Misuses of Technology in Feminist Dating Apps](https://telegra.ph/Addressing-the-Misuses-of-Technology-in-Feminist-Dating-Apps-03-02)
 - [Related Reports](https://drive.google.com/drive/folders/1-mFlPTlxo43QX70m3t5P16yvmylmhFI_)
 
