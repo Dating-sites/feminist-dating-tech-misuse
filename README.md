@@ -25,6 +25,12 @@ Third, there is a need for more inclusive and equitable algorithms. Dating apps 
 ![enter image description here][3]
 - [Related Reports](https://drive.google.com/drive/folders/1-mFlPTlxo43QX70m3t5P16yvmylmhFI_)
 
+Also it's MVP android application is show at below 👇:
+![enter image description here][4]
+
+https://app.uizard.io/prototypes/pXOxpv5baycJ8av0qALr/player
+
+
 ## Conclusion
 
 The potential misuses of technology in feminist dating apps underscore the need for a more equitable and safe online dating experience. By addressing the issues of harassment, sexual assault, and privacy breaches, as well as by ensuring the inclusivity and fairness of their algorithms, these platforms can become more empowering and beneficial for all users. However, it is clear that this will require a concerted effort from both the platforms themselves and the users to create a truly revolutionary dating experience that is not only feminist but also safe, equitable, and fulfilling for everyone involved.
@@ -33,3 +39,4 @@ The potential misuses of technology in feminist dating apps underscore the need 
   [1]: https://i.stack.imgur.com/TB2ws.jpg
   [2]: https://i.stack.imgur.com/LTO9b.png
   [3]: https://i.stack.imgur.com/S6Eab.png
+  [4]: https://i.stack.imgur.com/5P7rL.jpg
